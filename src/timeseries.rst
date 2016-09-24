@@ -554,7 +554,7 @@ the predictive model that you have already fitted using the HoltWinters() functi
 in the case of the rainfall time series, we stored the predictive model made using HoltWinters()
 in the variable "rainseriesforecasts". You specify how many further time points you want to make 
 forecasts for by using the "h" parameter in forecast.HoltWinters(). For example, to make a forecast
-of rainfall for the years 1814-1820 (8 more years) using forecast.HoltWinters(), we type:
+of rainfall for the years 1913-1920 (8 more years) using forecast.HoltWinters(), we type:
 
 .. highlight:: r
 
